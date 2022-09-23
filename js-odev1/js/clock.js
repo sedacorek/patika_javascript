@@ -8,7 +8,7 @@ function showTime() {
     let hour = time.getHours();
     let min = time.getMinutes();
     let sec = time.getSeconds();
-    let weekday = ['Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi', 'Pazar']
+    let weekday = [ 'Pazar', 'Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi']
     [new Date().getDay()]
     
   
